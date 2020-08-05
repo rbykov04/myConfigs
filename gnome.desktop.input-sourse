@@ -1,0 +1,6 @@
+[/]
+mru-sources=[('xkb', 'us'), ('xkb', 'ru')]
+show-all-sources=false
+per-window=false
+sources=[('xkb', 'us'), ('xkb', 'ru')]
+xkb-options=['grp:alt_shift_toggle']

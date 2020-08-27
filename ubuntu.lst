@@ -3,4 +3,8 @@ curl
 guake
 zsh
 gnome-tweaks
+build-essential
+cmake
+python3-dev
+fzf
 
